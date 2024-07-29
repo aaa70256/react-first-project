@@ -1,7 +1,6 @@
 # React + Vite
 
-* 使用vite創建react好處是，可以加快執行的速度，傳統CRA(create-react-app)的方式，需要透過webpack打包編譯後  
-才能執行，而透過vite創建則可以利用Rollup 協助進行生產環境的打包，幫助我開發時能有更好的體驗(瀏覽器執行效率更好)。
+* 使用vite創建react好處是，可以加快執行的速度，傳統CRA(create-react-app)的方式，需要透過webpack打包編譯後  才能執行，而透過vite創建則可以利用Rollup 協助進行生產環境的打包，幫助我開發時能有更好的體驗(瀏覽器執行效率更好)。
 
 ### install react using vite
 如果沒有打這段的話 ``-- --template react`` 創建時會讓你選擇要安裝的模板跟語言 *自定義*
